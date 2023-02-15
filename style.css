@@ -18,6 +18,9 @@
 
 #login_pg_heading {
   height: 100px;
+  font-family: "Bebas Neue", cursive;
+  font-size: 70px;
+  margin-top: 80px;
 }
 
 @media (max-width: 1024px) {
