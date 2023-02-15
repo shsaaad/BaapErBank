@@ -10,7 +10,7 @@ signInBtn.onclick = function() {
     //verify e-mail and password
 
     if ( userEmailValue === 'shmahee118@gmail.com' && userPasswordValue === "0101") {
-        window.location.pathname = './pages/home.html';
+        window.location.href = './home.html';
     } else {
         alert("Invalid User");
     }
